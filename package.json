@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "clipboardy": "^2.3.0",
+    "eslint": "^8.9.0",
     "mathjs": "^9.4.5"
   }
 }
