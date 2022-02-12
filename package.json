@@ -10,7 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "clipboardy": "^2.3.0",
-    "eslint": "^8.9.0",
     "mathjs": "^9.4.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
+    "eslint": "^8.9.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
